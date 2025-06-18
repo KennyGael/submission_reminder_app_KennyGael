@@ -1,3 +1,4 @@
+# Author: Kenny Ishimwe
 #!/bin/bash
 
 # Ask for your name
